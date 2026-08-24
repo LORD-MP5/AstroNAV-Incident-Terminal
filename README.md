@@ -173,20 +173,20 @@ AstroNAV's cargo tracking requires the following to be installed:
 
 INSTALLATION
 --------------------------------------------------------------------------------
-  1. Install SFSE and Address Library for SFSE Plugins first, and confirm
-     the game launches normally through SFSE before installing AstroNAV.
+  1. Install SFSE and Address Library, and confirm
+     the game launches normally through SFSE.
 
   2. Install the AstroNAV Cargo Tracking Plugin files into your Starfield
 	 Data folder or through your mod manager, as with any other SFSE plugin.
 
-  3. Extract and launch the AstroNAV desktop app. The app creates its own Data
-     folder, which will hold save files and their backups, which are generated
+  3. Extract the AstroNAV desktop app into a new folder and launch it. The app creates its own Data
+     folder, it holds save files and their backups, which are generated
 	 automatically with each new data save trigger. These backup saves are there
 	 in case of saving or accidental deletion mistakes made by the user.
 
   4. Launch Starfield through SFSE and load a save. Player inventory
      appears immediately in the terminal; ship cargo appears within a few
-     seconds -- you do not need to board your ship first.
+     seconds.
 
 
 USING ASTRONAV
