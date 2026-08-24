@@ -1,6 +1,5 @@
 --------------------------------------------------------------------------------
-ASTRONAV -- INCIDENT TERMINAL --
-A TN's OUT IN THE BLACKNESS COMPANION
+ASTRONAV -- INCIDENT TERMINAL -- A TN's OUT IN THE BLACKNESS COMPANION
 Ship Telemetry / Cargo Manifest / Flight Incident Logging for Starfield
 --------------------------------------------------------------------------------
 
